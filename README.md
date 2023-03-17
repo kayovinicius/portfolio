@@ -1,2 +1,4 @@
-# portfolio
- Portifolio feito apenas com HTML e CSS
+# portfolio 
+ esse portfolio será construído ao passo que eu for aprendendo
+ 
+ ;)
